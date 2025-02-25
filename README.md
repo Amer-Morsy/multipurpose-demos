@@ -2,11 +2,11 @@
 
 Welcome to the Multipurpose Demos project.
 
-<p style="display:flex; gap:5px">
-  <img width="300" height="300" src="./public/img/main.jpeg">
-  <img width="300" height="300" src="./public/img/app-development.jpg">
-  <img width="300" height="300" src="./public/img/business-and-startup.jpg">
-  <img width="300" height="300" src="./public/img/modern-agency.jpg">
+<p align="center">
+  <img width="400" height="300" src="./public/img/main.jpeg">
+  <img width="400" height="300" src="./public/img/app-development.jpg">
+  <img width="400" height="300" src="./public/img/business-and-startup.jpg">
+  <img width="400" height="300" src="./public/img/modern-agency.jpg">
 </p>
 
 ## Project Features

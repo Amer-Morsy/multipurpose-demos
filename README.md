@@ -1,6 +1,10 @@
 # Multipurpose Demos for Laravel
 
-Welcome to the Multipurpose Demos project for Laravel! This repository showcases a variety of demo applications that highlight the powerful features and capabilities of the Laravel framework. These demos are designed to help developers understand and implement different functionalities in their Laravel projects.
+Welcome to the Multipurpose Demos project.
+
+<p align="center">
+  <img width="300" height="400" src="./public/img/main.jpeg">
+</p>
 
 ## Project Features
 

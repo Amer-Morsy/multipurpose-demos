@@ -3,10 +3,10 @@
 Welcome to the Multipurpose Demos project.
 
 <p align="center">
-  <img width="400" height="300" src="./public/img/main.jpeg">
-  <img width="400" height="300" src="./public/img/app-development.jpg">
-  <img width="400" height="300" src="./public/img/business-and-startup.jpg">
-  <img width="400" height="300" src="./public/img/modern-agency.jpg">
+  <img width="400" height="400" src="./public/img/main.jpeg">
+  <img width="400" height="400" src="./public/img/app-development.jpg">
+  <img width="400" height="400" src="./public/img/business-and-startup.jpg">
+  <img width="400" height="400" src="./public/img/modern-agency.jpg">
 </p>
 
 ## Project Features

@@ -21,9 +21,9 @@ Welcome to the Multipurpose Demos project.
 
 -   **Laravel Framework**: A PHP framework for web artisans.
 -   **PHP**: The scripting language used for server-side development.
--   **MySQL**: A relational database management system.
--   **Redis**: An in-memory data structure store used for caching.
--   **Vue.js**: A progressive JavaScript framework for building user interfaces.
+-   **Bootstrap**: A popular CSS framework for developing responsive and mobile-first websites.
+-   **Blade**: The simple, yet powerful templating engine provided with Laravel.
+-   **JavaScript**: The programming language used for client-side development.
 -   **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
 ## Getting Started

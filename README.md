@@ -2,7 +2,7 @@
 
 Welcome to the Multipurpose Demos project.
 
-<p style="display:flex;">
+<p style="display:flex; gap:5px">
   <img width="300" height="300" src="./public/img/main.jpeg">
   <img width="300" height="300" src="./public/img/app-development.jpg">
   <img width="300" height="300" src="./public/img/business-and-startup.jpg">
